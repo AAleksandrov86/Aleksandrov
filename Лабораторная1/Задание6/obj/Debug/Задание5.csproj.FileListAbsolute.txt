@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание6\bin\Debug\Задание6.exe.config
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание6\bin\Debug\Задание6.exe
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание6\bin\Debug\Задание6.pdb
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание6\obj\Debug\Задание5.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание6\obj\Debug\Задание5.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание6\obj\Debug\Задание6.exe
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание6\obj\Debug\Задание6.pdb

@@ -4,26 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Задание4
+namespace Задание6
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string a;
-            a = Console.ReadLine();
+            var str = "цчш";
+            str = "'" + str + "'";
+            Console.Write(str);
             Console.Write("Программирование это ");
-            Console.Write(a);
-            Console.Write("!");
-            
-
-
-
-
-
-
-
-
         }
     }
 }

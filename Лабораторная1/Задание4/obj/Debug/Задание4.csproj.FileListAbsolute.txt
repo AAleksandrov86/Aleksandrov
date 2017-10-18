@@ -4,3 +4,9 @@ C:\Users\pro-15\source\repos\Лабораторная1\Задание4\bin\Debug
 C:\Users\pro-15\source\repos\Лабораторная1\Задание4\obj\Debug\Задание4.csproj.CoreCompileInputs.cache
 C:\Users\pro-15\source\repos\Лабораторная1\Задание4\obj\Debug\Задание4.exe
 C:\Users\pro-15\source\repos\Лабораторная1\Задание4\obj\Debug\Задание4.pdb
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание4\bin\Debug\Задание4.exe.config
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание4\bin\Debug\Задание4.exe
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание4\bin\Debug\Задание4.pdb
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание4\obj\Debug\Задание4.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание4\obj\Debug\Задание4.exe
+C:\Users\Alex\Desktop\Aleksandrov\Лабораторная1\Задание4\obj\Debug\Задание4.pdb
