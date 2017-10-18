@@ -10,7 +10,7 @@ namespace Задание6а
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("{0:F4}\n{1:F4}", Math.PI, Math.E);
 
 
 

@@ -1,0 +1,6 @@
+C:\Users\pro-15\Desktop\Aleksandrov\Лабораторная1\Задание8\bin\Debug\Задание8.exe.config
+C:\Users\pro-15\Desktop\Aleksandrov\Лабораторная1\Задание8\bin\Debug\Задание8.exe
+C:\Users\pro-15\Desktop\Aleksandrov\Лабораторная1\Задание8\bin\Debug\Задание8.pdb
+C:\Users\pro-15\Desktop\Aleksandrov\Лабораторная1\Задание8\obj\Debug\Задание8.csproj.CoreCompileInputs.cache
+C:\Users\pro-15\Desktop\Aleksandrov\Лабораторная1\Задание8\obj\Debug\Задание8.exe
+C:\Users\pro-15\Desktop\Aleksandrov\Лабораторная1\Задание8\obj\Debug\Задание8.pdb
