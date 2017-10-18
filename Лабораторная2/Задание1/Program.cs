@@ -10,7 +10,13 @@ namespace Задание1
     {
         static void Main(string[] args)
         {
-
+            String a;
+            a = Console.ReadLine();
+            double A;
+            A = double.Parse(a);
+            double S;
+            S = A + 7;
+            Console.WriteLine("{0:F4}",S);
 
 
 
