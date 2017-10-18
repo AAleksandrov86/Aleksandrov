@@ -23,7 +23,8 @@ namespace Задача11
             
 
 
-            Console.WriteLine(c + "('" + A + "'," + B + "')");
+            Console.WriteLine("<circle cx=\""+a+ "\" cy = \"+b+\"" +
+                "r="+c+ "\" fill = \"+d+\" /> ");
 
 
 
