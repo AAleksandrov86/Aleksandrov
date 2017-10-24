@@ -14,6 +14,10 @@ namespace Задание2
             a = Console.ReadLine();
             int A;
             A = int.Parse(a);
+            if (A<=0) 
+            { Console.WriteLine("Значение должно быть положительным");
+                return;
+            }
             int S;
             S =  6*(A*A);
             Console.WriteLine(S);

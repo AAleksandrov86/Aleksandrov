@@ -4,24 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Задача3
+namespace Задача5
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             String a;
             a = Console.ReadLine();
-            int A;
-            A = int.Parse(a);
-            if(A<=0)
+            Double A;
+            A = Double.Parse(a);
+            if (A<=0)
             { Console.WriteLine("Значение должно быть положительным");
                 return;
             }
-            int S;
-            S = A*A*A;
-            Console.WriteLine(S);
+            Double V;
+            V = 4*Math.PI*(A*A*A)/3;
+            Console.WriteLine("{0:F4}",V);
+
+
+
+
+
+
 
 
 
