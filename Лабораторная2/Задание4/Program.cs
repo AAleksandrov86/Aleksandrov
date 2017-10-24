@@ -4,19 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Задание2
+namespace Задание4
 {
     class Program
     {
         static void Main(string[] args)
         {
-            String a;
-            a = Console.ReadLine();
-            int A;
-            A = int.Parse(a);
-            int S;
-            S =  6*(A*A);
-            Console.WriteLine(S);
+            double R = Convert.ToDouble(Console.ReadLine());
+
+            Double S;
+            S = 2 * Math.PI * R;
+
+
+
+            Console.WriteLine("{0:F4}", S);
+            
+
+
 
 
 

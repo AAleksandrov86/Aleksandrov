@@ -13,9 +13,9 @@ namespace Задача3
 
             String a;
             a = Console.ReadLine();
-            double A;
-            A = double.Parse(a);
-            double S;
+            int A;
+            A = int.Parse(a);
+            int S;
             S = A*A*A;
             Console.WriteLine(S);
 
