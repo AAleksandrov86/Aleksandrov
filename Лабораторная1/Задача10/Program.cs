@@ -16,7 +16,7 @@ namespace Задача10
             int A, B;
             A = int.Parse(a);
             B = int.Parse(b);
-            c = ("INSERT INTO points (x, y) VALUES");
+            c = ("INSERT INTO points (x, y) VALUES ");
             
 
 

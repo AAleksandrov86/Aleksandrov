@@ -13,14 +13,15 @@ namespace Задача16
 
             double A = double.Parse(Console.ReadLine());
             double B = double.Parse(Console.ReadLine());
-            if (B > 0)
+            if (B < 0)
             {
-                Console.WriteLine("Значение y должно быть неотрицательным");
+                Console.WriteLine("Значение B должно быть неотрицательным");
                 return;
             }
             double C, D;
+            B = Math.Sqrt(B);
             C = A + B;
-            if (C > 0)
+            if (C < 0)
             {
                 Console.WriteLine("Подкоренное выражение должно быть неотрицательным");
                 return;
@@ -28,7 +29,7 @@ namespace Задача16
 
             D=-5*Math.Sqrt(C);
 
-            Console.WriteLine("{0:F4}", C);
+            Console.WriteLine("{0:F4}", D);
 
 
 
